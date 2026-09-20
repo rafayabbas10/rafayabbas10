@@ -12,7 +12,7 @@ I run **[Flominds AI]**, an AI automation and growth-engineering studio working 
 ### Tools I reach for
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,nestjs,postgres,docker,azure, aws&theme=dark" alt="Python, TypeScript, Next.js, NestJS, Postgres, Docker, Azure, AWS">
+  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,nestjs,postgres,docker,azure&theme=dark" alt="Python, TypeScript, Next.js, NestJS, Postgres, Docker, Azure">
 </p>
 
 Plus LangChain, LangGraph, n8n, LightGBM, and the usual data stack.
